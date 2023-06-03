@@ -13,8 +13,5 @@ Skills: Craftsmanship /.NET/JavaScript/Angular/React/HTML/CSS
 ![](https://github-readme-stats.vercel.app/api?username=shreyaskhamkar&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
- ###  ✍️ Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
