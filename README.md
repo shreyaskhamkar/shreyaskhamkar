@@ -2,7 +2,7 @@
 
 If it is to be..It is up to me
 
-Skills: .NET/JavaScript/Angular/React/HTML/CSS/C#
+Skills:C#/.NET/JavaScript/Angular/React/HTML/CSS
 
 🔭 I’m currently working on clean code<br>👯 I’m looking to collaborate on craftsmanship <br>🌱 I’m currently learning Windows and Web-based technologies <br>
 
