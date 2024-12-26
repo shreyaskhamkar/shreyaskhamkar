@@ -4,7 +4,9 @@ If it is to be..It is up to me
 
 Skills:C#/.NET/JavaScript/Angular/React/HTML/CSS
 
-🔭 I’m currently working on clean code<br>👯 I’m looking to collaborate on craftsmanship <br>🌱 I’m currently learning Windows and Web-based technologies <br>
+🔭 I’m currently working on Clean Code principles.
+👯 I’m looking to collaborate on improving coding practices and building quality software.
+🌱 I’m currently learning Windows and web-based technologies. <br>
 
 
 ### Me @Socials:
