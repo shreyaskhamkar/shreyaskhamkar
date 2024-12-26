@@ -2,7 +2,7 @@
 
 If it is to be..It is up to me
 
-Skills:C#/.NET/JavaScript/Angular/React/HTML/CSS
+Skills:C#/.NET/JavaScript/Angular/React/HTML/CSS/SQL
 
 🔭 I’m currently working on Clean Code principles. <br>
 👯 I’m looking to collaborate on improving coding practices and building quality software. <br>
