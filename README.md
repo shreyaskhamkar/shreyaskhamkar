@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shreyas  
+## Hi there 👋, I'm Shreyas  
 
 > *"If it is to be... It is up to me!"*
 
@@ -21,12 +21,11 @@
 ## 🔗 Connect with Me  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shreyaskhamkar96)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-khamkar-0777b720a/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shreyaskhamkar_/)  
 
 ---
-
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaskhamkar&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyaskhamkar&theme=city_light&hide_border=false&include_all_commits=true&count_private=true) 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskhamkar&layout=compact&theme=city_light)  
 
 ---
