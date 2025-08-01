@@ -70,6 +70,5 @@
 
 - Advanced system design patterns
 - Cloud-native architectures
-- Open-source contributions
 - Developer productivity & automation
 </details>
