@@ -6,20 +6,38 @@
 
 ## 🚀 About Me
 
-- 💻 **Full-Stack Developer** | React • .NET • SQL • Azure
-- 🏗️ 2+ years of experience designing & building scalable applications
-- 🎯 Passionate about **Clean Code, System Design & Software Architecture**
-- 🔍 Lifelong learner, tech enthusiast & problem solver
+- 💻 **Full-Stack Developer** | React • .NET • SQL • Azure  
+- 🏗️ 2+ years of experience designing & building scalable applications  
+- 🎯 Passionate about **Clean Code, System Design & Software Architecture**  
+- 🔍 Lifelong learner, tech enthusiast & problem solver  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React • Angular • JavaScript • TypeScript • HTML • CSS  
-**Backend:** C# • .NET Core • ASP.NET  
-**Database:** SQL Server • PostgreSQL  
-**Cloud & DevOps:** Azure • GitHub Actions  
-**Other:** LINQ • Entity Framework • REST APIs  
+**Frontend:**  
+🧩 React • TypeScript • JavaScript • HTML5 • CSS3 • TailwindCSS • Material UI • AgGrid
+
+**Backend:**  
+⚙️ C# • .NET 9 • ASP.NET Core • REST APIs  
+
+**Database:**  
+🗄️ SQL Server • PostgreSQL   
+
+**Cloud & DevOps:**  
+☁️ Azure • Docker • GitHub Actions • Jenkins   
+
+**Monitoring & Messaging:**  
+📡 RabbitMQ • Grafana • Loki • Prometheus
+
+**ORM & Frameworks:**  
+🧠 Entity Framework Core • LINQ • Dapper  
+
+**Testing & Quality:**  
+🧪 xUnit • SonarQube  
+
+**Architecture & Practices:**  
+🏗️ Microservices • Clean Architecture • Domain-Driven Design (DDD) • CI/CD • Behavior-Driven Development (BDD) 
 
 ---
 
@@ -58,17 +76,17 @@
 
 ## 💡 Interests
 
-- 🚀 Clean Code & Best Practices
-- ⚡ Building Scalable, Maintainable Software
-- 🛠️ Continuous Learning & Knowledge Sharing
-- 🤝 Collaboration & Community
+- 🚀 Clean Code & Best Practices  
+- ⚡ Building Scalable, Maintainable Software  
+- 🛠️ Continuous Learning & Knowledge Sharing  
+- 🤝 Collaboration & Community  
 
 ---
 
 <details>
 <summary>🌱 Currently Exploring</summary>
 
-- Advanced system design patterns
-- Cloud-native architectures
-- Developer productivity & automation
+- Advanced system design patterns  
+- Cloud-native architectures  
+- Developer productivity & automation  
 </details>
