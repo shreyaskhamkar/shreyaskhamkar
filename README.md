@@ -55,9 +55,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaskhamkar&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskhamkar&layout=compact&theme=city_light" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shreyaskhamkar&show_icons=true&theme=city_light&include_all_commits=true&count_private=true"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaskhamkar&layout=compact&theme=city_light"
+    height="150"
+  />
 </p>
+
 
 ---
 
@@ -73,8 +80,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyaskhamkar&theme=flat&column=7&margin-w=5&no-frame=true" height="140"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=shreyaskhamkar&theme=flat&no-frame=true&margin-w=5&column=6"
+    height="140"
+  />
 </p>
+
 
 ---
 
