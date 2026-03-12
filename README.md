@@ -79,12 +79,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=shreyaskhamkar&theme=flat&no-frame=true&margin-w=5&column=6"
-    height="140"
-  />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=shreyaskhamkar&theme=flat&no-frame=true&margin-w=5&column=6)
 
 
 ---
