@@ -119,7 +119,6 @@ const shreyas: Developer = {
 
 **🌱 Currently Exploring**
 - Advanced distributed system design
-- Cloud-native patterns on Azure
 - Developer productivity & automation
 - Knowledge sharing & mentoring
 
