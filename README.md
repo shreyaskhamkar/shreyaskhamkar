@@ -22,7 +22,7 @@ const shreyas: Developer = {
   name:       "Shreyas Khamkar",
   role:       "Full-Stack Developer",
   experience: "3+ years",
-  location:   "Pune, India 🇮🇳",
+  location:   "Kolhapur, India 🇮🇳",
 
   stack: {
     frontend:    ["React", "TypeScript", "TailwindCSS", "Ag-Grid"],
